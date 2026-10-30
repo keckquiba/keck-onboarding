@@ -7,7 +7,7 @@
 - [ ] Can drop notes into exams
   - [x] notes icon appears
 - [ ] Bodypart per procedure uploads works
-- [ ] Can move exams
+- [x] Can move exams
 - [x] Can reserve studies
 # Collections
 - [x] can add new collection
