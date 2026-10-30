@@ -26,7 +26,7 @@ Aside from notes and review, valuable topics covered this week were as follows:
   - 
 
 ## 10/26
- - [x] Synapse dev testing
+ - [x] [Synapse dev testing](./syn-dev-testing.md)
  - [x] Samsung onboarding
    - [x] [DMWL spread sheet]() updated
  - [ ] Synapse foundations training
