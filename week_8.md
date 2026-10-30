@@ -8,8 +8,17 @@ A decent chunk of time this week was spent organizing and cleaning up notes. In 
 Aside from notes and review, valuable topics covered this week were as follows:
 - Modality onboarding
   - Understanding information hand-off between Imaging IT and vendor field engineers
-  - Connecting modalities to DCMSys and gaining understanding routes  
-  - Practice with this topic started last week with the C-arm and XR portable at the Arcadia clinic, and the XR portable at PMOB. I'll be going back to Arcadia to attempt to configure the XR portable again. The portable was re-configured to pull `MWL` from DCMSys. `DICOM` storage destination is still pointing to PACS. I need to point it to the router
+  - Connecting modalities to ***DCMSys*** and gaining understanding routes  
+  - Practice with this topic started last week with the C-arm and XR portable at the **Arcadia Clinic**, and the XR portable at **PMOB**. I'll be going back to Arcadia to attempt to configure the XR portable again. The portable was re-configured to pull `MWL` from ***DCMSys***. `DICOM` storage destination is still pointing to PACS. I need to point it to the router
+  - ~~Sometime next week, I need to return to **PMOB** to re configure the XR portable. Last week I used a ***DCMSys*** route that sends to both ***Synapse*** and ***Radimetrics***. Robert is aware of this error and has built(?) a new route that only sends to ***Synapse***.~~
+    - Double check with Robert during next week's DCMSys review
+- Radimetrics
+  - Attended the vendor training and gained an understanding about required data for dosage calculations
+  - Learned how to troubleshoot rejected studies
+  - Need more review here still
+- Looped in to issue with **UAH** rads wanting to stick with their personal reporting templates
+  - Keck is making an effort to standardize across the enterprise
+  - Specific information and statements are required(by who?) to properly bill for reports. Personalized templates often do not meet these standards
   - 
 
 ## 10/26
@@ -30,7 +39,7 @@ Aside from notes and review, valuable topics covered this week were as follows:
   - Pending some users in AD and/or Cerner
 - [ ] Troubleshoot magview report not crossing to powerscribe
 - [ ] Follow up on UAH templates
-- [ ] learn to run case logs for radiologists
+- [x] learn to run case logs for radiologists
 - [x] Ambra tickets
 
 ## 10/29
@@ -41,6 +50,7 @@ Aside from notes and review, valuable topics covered this week were as follows:
   - [x] DCMSys monitoring
 - [ ] onboard new radiologists
 - [x] Ambra tickets
+- [x] Unlock reports in PSRadportal
 
 ## 10/30
 - [ ] Arcadia clinic portable
