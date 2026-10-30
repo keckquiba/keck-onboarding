@@ -5,7 +5,7 @@
 # Week 8: Close Access Gaps and Deepen Workflow Knowledge​
 
 ### ***Summary:***
-This week was an intentionally lighter week than last week. Like physical training, it's important to allow for periods of "recovery" after intense training blocks. In the case of learning, these recovery block can be useful to allow time for reviewing of newly learned concepts to better bind them to memory. 
+This week was an intentionally lighter week than last week. Like physical training, it's important to allow for periods of "recovery" after intense training blocks. In the case of learning, these recovery blocks can be useful to allow time for reviewing of newly learned concepts to better bind them to memory. 
 
 A decent chunk of time this week was spent organizing and cleaning up notes. In my experience, this adds to the learning process and is similar to code clean-up. When you maintain a code base, it allows you to re-read the code and re-digest it(Provided the codebase isn't a mess and is readable). Even just simple re-factors for the sake of readability will force a developer to try to understand the code again. 
 
@@ -23,7 +23,7 @@ Aside from notes and review, valuable topics covered this week were as follows:
 - Looped in to issue with **UAH** rads wanting to stick with their personal reporting templates
   - Keck is making an effort to standardize across the enterprise
   - Specific information and statements are required(by who?) to properly bill for reports. Personalized templates often do not meet these standards
-  - 
+- Continue to take tickets in ServiceNow
 
 ## 10/26
  - [x] [Synapse dev testing](./syn-dev-testing.md)
