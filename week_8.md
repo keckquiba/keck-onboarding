@@ -1,13 +1,27 @@
 # Week 8: Close Access Gaps and Deepen Workflow Knowledge​
 
+### ***Summary:***
+This week was an intentionally lighter week than last week. Like physical training, it's important to allow for periods of "recovery" after intense training blocks. In the case of learning, these recovery block can be useful to allow time for reviewing of newly learned concepts to better bind them to memory. 
+
+A decent chunk of time this week was spent organizing and cleaning up notes. In my experience, this adds to the learning process and is similar to code clean-up. When you maintain a code base, it allows you to re-read the code and re-digest it(Provided the codebase isn't a mess and is readable). Even just simple re-factors for the sake of readability will force a developer to try to understand the code again. 
+
+Aside from notes and review, valuable topics covered this week were as follows:
+- Modality onboarding
+  - Understanding information hand-off between Imaging IT and vendor field engineers
+  - Connecting modalities to DCMSys and gaining understanding routes  
+  - Practice with this topic started last week with the C-arm and XR portable at the Arcadia clinic, and the XR portable at PMOB. I'll be going back to Arcadia to attempt to configure the XR portable again. The portable was re-configured to pull `MWL` from DCMSys. `DICOM` storage destination is still pointing to PACS. I need to point it to the router
+  - 
+
 ## 10/26
  - [x] Synapse dev testing
  - [x] Samsung onboarding
    - [x] [DMWL spread sheet]() updated
  - [ ] Synapse foundations training
+ - [x] Ambra tickets
 
 ## 10/27
 - [x] Start worklist presentation draft
+- [x] Ambra tickets
 
 ## 10/28
 - [x] reach out to infosec to fix delinea again
@@ -17,6 +31,7 @@
 - [ ] Troubleshoot magview report not crossing to powerscribe
 - [ ] Follow up on UAH templates
 - [ ] learn to run case logs for radiologists
+- [x] Ambra tickets
 
 ## 10/29
 - [x] Worklist document draft
@@ -25,6 +40,7 @@
   - [x] Aria
   - [x] DCMSys monitoring
 - [ ] onboard new radiologists
+- [x] Ambra tickets
 
 ## 10/30
 - [ ] Arcadia clinic portable
