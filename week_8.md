@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=./assets/img/keck.jpg>
+</p>
+
 # Week 8: Close Access Gaps and Deepen Workflow Knowledge​
 
 ### ***Summary:***
