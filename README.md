@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=./assets/img/keck.jpg>
+</p>
+
 # 90 Day Onboarding Weekly Summary
 
 
