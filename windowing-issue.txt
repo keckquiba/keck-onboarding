@@ -1,0 +1,65 @@
+problem image:
+812-XR-26-025567
+78	0018	0060	DS	KVP	[ 55 ]
+84	0018	1152	IS	Exposure	[ 1 ]
+82	0018	1150	IS	Exposure Time	[ 4 ]
+83	0018	1151	IS	X-ray Tube Current	[ 250 ]
+127	0028	1050	DS	Window Center	[ 4614, 4614, 4614 ]
+128	0028	1051	DS	Window Width	[ 1513, 1134, 2269 ]
+
+normal image:
+812-XR-26-026531
+78	0018	0060	DS	KVP	[ 55 ]
+84	0018	1152	IS	Exposure	[ 2 ]
+82	0018	1150	IS	Exposure Time	[ 8 ]
+83	0018	1151	IS	X-ray Tube Current	[ 255 ]
+127	0028	1050	DS	Window Center	[ 4124, 4124, 4124 ]
+128	0028	1051	DS	Window Width	[ 2206, 1654, 3309 ]
+
+812-XR-26-026888
+78	0018	0060	DS	KVP	[ 54 ]
+84	0018	1152	IS	Exposure	[ 2 ]
+82	0018	1150	IS	Exposure Time	[ 5 ]
+83	0018	1151	IS	X-ray Tube Current	[ 321 ]
+127	0028	1050	DS	Window Center	[ 4312, 4312, 4312 ]
+128	0028	1051	DS	Window Width	[ 2653, 1989, 3979 ]
+
+812-XR-26-023345
+83	0018	0060	DS	KVP	[ 60 ]
+89	0018	1152	IS	Exposure	[ 1 ]
+87	0018	1150	IS	Exposure Time	[ 4 ]
+88	0018	1151	IS	X-ray Tube Current	[ 245 ]
+132	0028	1050	DS	Window Center	[ 3506, 3506, 3506 ]
+133	0028	1051	DS	Window Width	[ 1742, 1306, 2613 ]
+
+812-XR-26-027129
+78	0018	0060	DS	KVP	[ 55 ]
+84	0018	1152	IS	Exposure	[ 1 ]
+82	0018	1150	IS	Exposure Time	[ 3 ]
+83	0018	1151	IS	X-ray Tube Current	[ 327 ]
+127	0028	1050	DS	Window Center	[ 4674, 4674, 4674 ]
+128	0028	1051	DS	Window Width	[ 2011, 1508, 3017 ]
+d
+
+812-XR-26-018260
+83	0018	0060	DS	KVP	[ 55 ]
+89	0018	1152	IS	Exposure	[ 1 ]
+87	0018	1150	IS	Exposure Time	[ 13 ]
+88	0018	1151	IS	X-ray Tube Current	[ 98 ]
+132	0028	1050	DS	Window Center	[ 4789, 4789, 4789 ]
+133	0028	1051	DS	Window Width	[ 2191, 1643, 3286 ]
+d
+
+812-XR-26-009579
+83	0018	0060	DS	KVP	[ 55 ]
+89	0018	1152	IS	Exposure	[ 1 ]
+87	0018	1150	IS	Exposure Time	[ 13 ]
+88	0018	1151	IS	X-ray Tube Current	[ 96 ]
+132	0028	1050	DS	Window Center	[ 4647, 4647, 4647 ]
+133	0028	1051	DS	Window Width	[ 1704, 1278, 2556 ]
+d
+
+812-xr-26-001744 peds
+65	0011	1046	LO		[ "Hand", "oblique", "Standard", "SMALL PEDIATRIC", "Custom1" ]
+53	0011	1012	LT		SMALL_PEDIATRIC
+63	0011	1042	LO		oblique
