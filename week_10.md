@@ -14,34 +14,34 @@ I also got to work with vendor support trouble shooting issues.
 - [ ] TAC f/u MRI color maps not displaying correctly 
 - [ ] Worklist presentation
 - [ ] Learn how to restart the services in synapse
-- [ ] contact seimens for xray machine
+- [ ] Contact Siemens for xray machine
 
 # 11/10
-- [x] let sam know about MRI stealth images
-- [x] learn more dcmsys
-  - a uah gateway sent to a premier router but there is no route configured for that path on the uah gateway()
-- [x] call siemens to upload procedure codes
-- [ ] worklist presentation
-- [x] complete access tickets
-- [x] ambra tickets
-- [ ] work on notes(?)
-- [x] uah templates
-- [x] rad onboarding meeting
+- [x] Let Sam know about MRI stealth images
+- [x] Learn more DCMSYS
+  - A UAH gateway sent to a premier router but there is no route configured for that path on the uah gateway()
+- [x] Call Siemens to upload procedure codes
+- [ ] Worklist presentation
+- [x] Complete access tickets
+- [x] Ambra tickets
+- [ ] Work on notes(?)
+- [x] UAH templates
+- [x] Rad onboarding meeting
   
 
 # 11/11
-- [x] rad training
-- [ ] worklist presentation
-- [x] f/u and close siemens ticket
-- [x] create notes on how to add procedure codes to ps1 and synapse
-- [x] check outstanding reports or addendums for Dr Moon who is leaving dec 4th
-- [x] attend synapse testing meeting and schedule testing
-- [x] investigate windowing issue for xray
+- [x] Rad training
+- [ ] Worklist presentation
+- [x] f/u and close Siemens ticket
+- [x] Create notes on how to add procedure codes to ps1 and synapse
+- [x] Check outstanding reports or addendums for Dr Moon who is leaving dec 4th
+- [x] Attend synapse testing meeting and schedule testing
+- [x] Investigate windowing issue for xray
 
 # 11/12
 - [x] Meet with MR techs to see how to create color maps on siemens syngo
-- [x] investigate windowing issue for xray(cont)
-- [ ] worklist presentation
+- [x] Investigate windowing issue for xray(cont)
+- [ ] Worklist presentation
 - [ ] UAH templates
 
 # 11/13
