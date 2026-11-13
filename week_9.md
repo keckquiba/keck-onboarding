@@ -55,11 +55,11 @@ I'm also slowly getting familiar with Patricia's meetings with clinical staff. W
 
 # 11/6
 
-- [ ] Weekly summary
-- [ ] Complete rad training notes for monday
+- [x] Weekly summary
+- [x] Complete rad training notes for monday
 - [ ] Worklist presentation progress
 - [ ] Train with Patricia
-- [ ] Observe weekly exam review and try to understand the work being done in these meetings
+- [x] Observe weekly exam review and try to understand the work being done in these meetings
   - CRI sends a spreadsheet to Lippi and Krystal with comments on potential issues with exams. Some examples of issues:
     - Wrong exam was billed
     - CPT code associated to an exam is incorrect
@@ -67,7 +67,7 @@ I'm also slowly getting familiar with Patricia's meetings with clinical staff. W
   - Sometimes the result of these issues is that a new order needs to be built or an existing order needs to be renamed.
   - Do we need to update procedure codes in PowerScribe or Synapse when this happens
   - If an incorrect order was placed altogether, a new order will be dropped and we will move the images to the newly placed order. We will also need to move the report
-- [ ] Intro to test scripts for Synapse 7.4.320
+- [x] Intro to test scripts for Synapse 7.4.320
 
 [<< Week 8](./week_8.md) | [Week 10 >>](./week_10.md)
 <br></br>
