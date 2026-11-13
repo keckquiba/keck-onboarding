@@ -5,7 +5,9 @@
 # Week 10
 
 ### ***Summary:***
+This week's main topic was radiologist training. Patricia and I trained 3 radiologists. This was my first time training the rads after first observing these training sessions with Patricia. 3 in a week is good practice and there is more to come so I intend to keep improving with more of these trainings. We have 3 more that we know of.
 
+I also got to work with vendor support trouble shooting issues. 
 
 # 11/9
 - [x] Rad Training
