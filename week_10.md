@@ -45,10 +45,11 @@ I also got to work with vendor support trouble shooting issues.
 - [ ] UAH templates
 
 # 11/13
+- [x] Activate new rad's account per site credentialed 
 - [ ] Summary
-- [ ] Current Rad accounts spreadsheet
+- [x] Current Rad accounts spreadsheet
 - [ ] Synapse Training
-- [ ] Worklist presentation
+- [x] Worklist presentation
 
 [<< Week 9](./week_9.md) | [Week 11 >>](./week_11.md)
 <br></br>
