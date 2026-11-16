@@ -7,7 +7,7 @@
 ### ***Summary:***
 This week's main topic was radiologist training. Patricia and I trained 3 radiologists. This was my first time training the rads after first observing these training sessions with Patricia. 3 in a week is good practice and there is more to come so I intend to keep improving with more of these trainings. We have 3 more that we know of.
 
-I also got to work with vendor support trouble shooting issues. 
+I also got to work with vendor support trouble shooting issues. I worked with Siemens to troubleshoot an xray machine, and Synapse to investigate the color mapping issue that Dr. Omid reported. On that topic, I got some hands on experience troubleshooting an app in the reading room at HC2. Luckily it didn't take too long to resolve.
 
 # 11/9
 - [x] Rad Training
