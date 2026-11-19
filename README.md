@@ -16,6 +16,8 @@
 - [Week 8](./week_8.md)
 - [Week 9](./week_9.md)
 - [Week 10](./week_10.md)
+- [Week 11](./week_11.md)
+- [Week 12](./week_12.md)
 
 # Dumb Ideas:
 - Create an Imaging Wiki 2.0 that makes use of GitHub
