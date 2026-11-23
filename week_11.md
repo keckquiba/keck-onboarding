@@ -26,7 +26,7 @@
 - [x] Ambra and Synapse Tickets
 
 ## 11/20
-- [x] Credit 3D orders and create guide for 3D lab
+- [x] Credit 3D orders and [create guide](./credit_order.md)(Pending review from Patricia before sending to 3D Lab) for 3D lab
 - [x] Email Dr Carmichael about intelliscroll
 - [x] Synapse testing
   - [x] bring up worklist missing from "apply column settings" menu
