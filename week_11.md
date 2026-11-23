@@ -26,6 +26,11 @@
 - [x] Ambra and Synapse Tickets
 
 ## 11/20
+- [x] Credit 3D orders and create guide for 3D lab
+- [x] Email Dr Carmichael about intelliscroll
+- [x] Synapse testing
+  - [x] bring up worklist missing from "apply column settings" menu
+- [x] Tickets
 
 [<< Week 10](./week_10.md) | [Week 11 >>](./week_12.md)
 <br></br>
