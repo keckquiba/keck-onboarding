@@ -9,7 +9,7 @@
   - [Table of Contents](#table-of-contents)
 - [What date do I use when I complete my 3D order in Cerner?](#what-date-do-i-use-when-i-complete-my-3d-order-in-cerner)
 - [When do I need a new FIN?](#when-do-i-need-a-new-fin)
-- [How to Credit an Order?](#how-to-credit-an-order)
+- [How to Credit an Order](#how-to-credit-an-order)
 
 # What date do I use when I complete my 3D order in Cerner?
 - If the 3D order was ordered with original diagnostic order, you can complete your 3D order with the **same** date as the **original diagnostic order**.
@@ -22,7 +22,7 @@ The FIN associated with the 3D order should also be associated with the correct 
 - If a 3D order is placed outside of Keck Hospital or HC2 (any order that does not have 520 or 267 accession number) it will need a new FIN.
 - If an out patient has a 3D order placed after the diagnostic order, a new FIN must be created.
 
-# How to Credit an Order?
+# How to Credit an Order
 
 - Open Order Viewer from the Cerner app bar: ![alt text](./assets/img/order_viewer.png)
 - Search for the exam that you want to remove the charge for
